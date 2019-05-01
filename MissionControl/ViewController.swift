@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  LaunchListViewController.swift
 //  MissionControl
 //
 //  Created by Daniel Cizmarik on 4/28/19.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class LaunchListViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
